@@ -1,5 +1,5 @@
 # Análise e Monitoramento de Pesquisa de Clima Organizacional
-### Projeto busca análise e monitoramento de indicadores de satisfação através de pesquisa de clima organizacional.
+### Projeto objetiva executar uma análise e monitoramento de indicadores de satisfação através de pesquisa de clima organizacional.
 
 - Link de Acesso para a Dashboard: <div id="badges">
   <a href = "https://app.powerbi.com/view?r=eyJrIjoiNjYzMjUwNTMtMGVkNS00ZDdmLTk0YzgtYmQ2MTcyZTlmNjYxIiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9">
