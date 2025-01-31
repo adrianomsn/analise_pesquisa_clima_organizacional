@@ -76,15 +76,15 @@
 
 # Conclusão
 
-A análise dos dados de uma pesquisa de clima organizacional é muito importante quando se tem como objetivo principal dignósticar possíveis melhorias a serem feitas, determina quais setores, departamentos e indicadores
-deverão ser levadores em considerão para traçar e planejar melhorias no andamento interno da empresa. E dessa forma, gerando assim um ambiente mais organizado, harmonioso e de respeito para os seus funcionários impactando
+A análise dos dados de uma pesquisa de clima organizacional é muito importante quando se tem como objetivo principal dignósticar possíveis melhorias a serem feitas, assim como determina quais setores, departamentos e indicadores
+deverão considerados ao traçar o planejamento de melhorias internas da empresa. E dessa forma, gerando assim um ambiente mais organizado, eficiente, harmonioso e respeitoso para os funcionários. Impactando
 assim, diretamente na produtividade, rotatividade e qualidade dos produtos e resultados obtidos pela empresa.
 
-É notável a necessidade de uma investigação mais apurada sobre as questões e oportunidades de desenvolvimento profissional e remuneração nos departamentos G e E. Interessante ressaltar a necessidade de utilizar de boas práticas
+É notável a necessidade de uma investigação mais apurada sobre as questões e oportunidades de desenvolvimento profissional e remuneração nos departamentos G e E. Vale ressaltar também a necessidade de utilizar de boas práticas
 já adotadas em outros departamentos que demonstraram bons indicadores na pesquisa de clima organizacional. Como por exemplo os departamentos F e A, que demonstraram poquissimos e até nenhuma resposta registrada com insatisfação.
-Além de elencar quais práticas e oportunidade são ofertadas nestes setores e não são aplicadas nos outros ou a forma que é aplicada, para que assim possamos utilizar de técnicas e abordagens já validadas no próprio contexto da empresa.
-Observa-se também uma necessidade de foco especial para como está sendo desenvolviment a remuneração e progressão de carreira dos funcionários de maneira GERAL, tendo em vista os baixos resultados de satisfação em relação a esta categoria.
-Levando todos esses pontos em consideração, as melhorias do ambiente de trabalho e produtividade virão e impactarão diretamente nos resultados da empresa consequentemente.
+Além de elencar qual a forma que práticas e oportunidades são ofertadas para os diferentes setores. Sendo assim possível fazer uso de técnicas e abordagens já validadas no próprio contexto da empresa visando resolver essa lacunas e divergências.
+Observa-se também a necessidade alarmante sobre como está ocorrendo o desenvolvimento e o níveis de remuneração e progressão de carreira dos funcionários de maneira GERAL, tendo em vista os baixos resultados de satisfação em relação a estas categorias.
+Levando todos esses pontos em consideração, as melhorias do ambiente de trabalho e produtividade proporcionadas por estas informações através de melhores práticas e condutas, poderão impactar diretamente na satisfação do funcionário e consequentemente no resultados de receita, lucro e produtividade da empresa como um todo.
 
 
 
