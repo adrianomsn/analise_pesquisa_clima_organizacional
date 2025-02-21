@@ -2,7 +2,7 @@
 ### Projeto objetiva executar uma análise e monitoramento de indicadores de satisfação através de pesquisa de clima organizacional.
 
 - Link de Acesso para a Dashboard: <div id="badges">
-  <a href = "https://app.powerbi.com/view?r=eyJrIjoiNjYzMjUwNTMtMGVkNS00ZDdmLTk0YzgtYmQ2MTcyZTlmNjYxIiwidCI6ImI1OTFhZTU0LTMzYzItNDU4OS1iZTY2LTkwMjFhNDE5NmM3YyJ9">
+  <a href = "https://app.powerbi.com/links/tAqYBSmOUn?ctid=b591ae54-33c2-4589-be66-9021a4196c7c&pbi_source=linkShare">
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Dashboard em Power BI"/>
   </a>
 
