@@ -16,7 +16,7 @@
 - 38,42% das respostas relataram não concordar e nem discordar que estao plenamente satisfeitos ou insatisfeitos com algum dos aspectos gerais da empresa.
 
   ### Aderência à pesquisa por departamento:
-- O departamento G obtedve o maior percentual de aderência com 95.83% de participação.
+- O departamento G obteve o maior percentual de aderência com 95.83% de participação.
 - O departamento D obteve o menor percentual de aderência com 68,18% de participação.
 
   ## Panorâma por categoria
